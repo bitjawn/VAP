@@ -2,7 +2,6 @@
   <div class="about">
     <h2>{{msg}}</h2>
      <div class="row v-scroll">
-        <img src="graphics/background4.png" class="about">
         <div class="left-floater">
             <h4>Lorem ipsum dolor sit<div class="subheader">Amet aliquam faucibus ac</div></h4>
             <p>
