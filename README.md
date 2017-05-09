@@ -1,4 +1,4 @@
-# Vue App Template
+# Vue Application Template
 <h3>A basic web template.</h3>
 
 <p>For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).</p>
