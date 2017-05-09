@@ -24,7 +24,7 @@
     float:right;
 }
 
-.thumbnail {
+.logo {
     width:555px;
     height:355px;
     padding:0;
@@ -106,12 +106,13 @@ iframe {
             text-align:center;
             width:100%;
         }
-
-    .thumbnail {
-            width:100%;
-            height:100%;
-        }
     
+    .logo {
+            width:355px;
+            height:355px;
+            padding:0;
+            margin:0;
+        }
     .map,
     .right-floater form,
     .left-floater * {

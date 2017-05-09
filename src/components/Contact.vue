@@ -47,7 +47,7 @@
 
 <script>
 export default {
-  name: 'hello',
+  name: 'contact',
   data () {
     return {
       msg: 'Contact Us'
